@@ -1,2 +1,2 @@
 # css-avancado
- Projeto WebSite focado em CSS , sendo criado e desenvolvido junto com o curso da Origamid de CSS avançado e posicionamento.
+ Projeto WebSite focado em CSS. Desenvolvimento do Website Brafé feito a partir do treinamento da Origamid do curso de css avançado e posicionamento.
