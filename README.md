@@ -1,7 +1,6 @@
 # Website Brafé - CSS
- Projeto de um WebSite chamado Brafé focado em melhorar o CSS. Desenvolvimento feito a partir do treinamento da Origamid do curso de css avançado e posicionamento.
-
-Houve a criação do site brafé em três versões de layout em CSS, com o mesmo conteúdo HTML:
+Brafé é o resultado final do curso de CSS Avançado e posicionamento da Origamid. 
+Um site criado com foco no treinamento de layout e posicionamento em três versões diferentes no CSS, com o mesmo conteúdo HTML:
 
 1. - CSS Puro;
 2. - CSS Grid;
